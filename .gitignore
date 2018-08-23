@@ -1,0 +1,5 @@
+.DS_Store
+
+# Ignore downloaded datasets
+file to be ignored 2.csv
+file to be ignored.txt
