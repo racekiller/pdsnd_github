@@ -10,6 +10,7 @@ def load_data(path):
     with open(input_file, "r") as f:
         data = f.read()
         print("adding text for github Projects")
+        print("adding second line of Text")
     return data
 
 
