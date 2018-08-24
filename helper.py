@@ -9,6 +9,10 @@ def load_data(path):
     input_file = os.path.join(path)
     with open(input_file, "r") as f:
         data = f.read()
+<<<<<<< HEAD
+=======
+        print("adding text for github Projects")
+>>>>>>> documentation
     return data
 
 
