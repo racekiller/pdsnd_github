@@ -11,6 +11,9 @@ def load_data(path):
         data = f.read()
     return data
 
+def print_name(name):
+    print(name)
+    return
 
 def preprocess_and_save_data(dataset_path, token_lookup, create_lookup_tables):
     """
